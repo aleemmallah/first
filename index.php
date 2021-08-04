@@ -18,9 +18,8 @@ $var=array([1,2,3,4,5,6]);
     <ol>
     
     <?php
-            foreach ($var aS $V) {
-                echo " <li> $var
-                </li>";
+            foreach ($var as $v) {
+                echo " <li> $v </li>";
                 # code...
             }
 
