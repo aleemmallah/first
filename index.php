@@ -1,6 +1,6 @@
 <?php
 
-$var=array(["hey","hello","car","truck","bike"]);
+$var=array("hey","hello","car","truck","bike");
 
 ?>
 
